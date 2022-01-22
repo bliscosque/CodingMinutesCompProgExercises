@@ -15,7 +15,7 @@ int firstUniqChar(string s) {
     return -1;
 }
 
-int main()
+int mainFUC()
 {
     cout << firstUniqChar("codingminutes") << endl;
     cout << firstUniqChar("aabb") << endl;
