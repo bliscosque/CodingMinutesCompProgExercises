@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="findKthLargest.cpp" />
     <ClCompile Include="firstUniqChar.cpp" />
+    <ClCompile Include="MaxScoreFromRemovingStones.cpp" />
     <ClCompile Include="OneInteger.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

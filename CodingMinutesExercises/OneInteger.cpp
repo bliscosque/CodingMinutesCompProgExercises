@@ -21,7 +21,7 @@ int solve(vector<int> nums) {
 	}
 	return cost;
 }
-int main() {
+int mainOI() {
 	vector<int> nums = { 1,2,3,4,5 };
 	cout << solve(nums);
 
