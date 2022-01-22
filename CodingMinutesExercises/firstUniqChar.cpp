@@ -19,5 +19,6 @@ int mainFUC()
 {
     cout << firstUniqChar("codingminutes") << endl;
     cout << firstUniqChar("aabb") << endl;
+    return 0;
 }
 

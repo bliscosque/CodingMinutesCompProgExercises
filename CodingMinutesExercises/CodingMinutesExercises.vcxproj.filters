@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingMinutesExercises.cpp">
+    <ClCompile Include="firstUniqChar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="findKthLargest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OneInteger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
