@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="findKthLargest.cpp" />
     <ClCompile Include="firstUniqChar.cpp" />
     <ClCompile Include="MaxScoreFromRemovingStones.cpp" />
