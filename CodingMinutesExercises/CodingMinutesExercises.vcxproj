@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DistinctCandies.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="findKthLargest.cpp" />
     <ClCompile Include="firstUniqChar.cpp" />
     <ClCompile Include="MaxScoreFromRemovingStones.cpp" />
     <ClCompile Include="OneInteger.cpp" />
+    <ClCompile Include="PowerOf4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

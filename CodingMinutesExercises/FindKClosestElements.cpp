@@ -49,7 +49,7 @@ vector<int> findClosestElements(vector<int> arr, int k, int x) {
 	return closest;
 }
 
-int main() {
+int mainFKCE() {
 	vector<int> is = { 1,2,3,4,5 };
 	vector<int> res = findClosestElements(is, 4, 3);
 	cout << endl;
