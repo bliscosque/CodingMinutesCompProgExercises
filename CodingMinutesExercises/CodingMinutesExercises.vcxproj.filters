@@ -36,5 +36,8 @@
     <ClCompile Include="PowerOf4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DecodingXORArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

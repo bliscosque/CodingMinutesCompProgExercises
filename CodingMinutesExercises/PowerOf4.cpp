@@ -6,7 +6,8 @@ bool isPowerOfFour(int n) {
 	if ((mask & n)==0) return true;
 	return false;
 }
-int main() {
+int mainPO4() {
 	cout << isPowerOfFour(16) << endl;
 	cout << isPowerOfFour(5) << endl;
+	return 0;
 }

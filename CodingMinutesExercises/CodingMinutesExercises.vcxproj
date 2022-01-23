@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DecodingXORArray.cpp" />
     <ClCompile Include="DistinctCandies.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="findKthLargest.cpp" />
