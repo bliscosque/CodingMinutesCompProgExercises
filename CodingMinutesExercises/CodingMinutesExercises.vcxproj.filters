@@ -42,5 +42,16 @@
     <ClCompile Include="BullsAndCows.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SmallestRange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortIntegerByNumbersOfBits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdc++.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
