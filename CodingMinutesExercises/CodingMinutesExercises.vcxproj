@@ -145,6 +145,7 @@
     <ClCompile Include="FindKClosestElements.cpp" />
     <ClCompile Include="findKthLargest.cpp" />
     <ClCompile Include="firstUniqChar.cpp" />
+    <ClCompile Include="LongestConsecutive1sInBinary.cpp" />
     <ClCompile Include="MaxScoreFromRemovingStones.cpp" />
     <ClCompile Include="OneInteger.cpp" />
     <ClCompile Include="PowerOf4.cpp" />

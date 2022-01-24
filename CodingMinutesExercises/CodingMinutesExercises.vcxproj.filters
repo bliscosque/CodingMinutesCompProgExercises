@@ -48,6 +48,9 @@
     <ClCompile Include="SortIntegerByNumbersOfBits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LongestConsecutive1sInBinary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdc++.h">
