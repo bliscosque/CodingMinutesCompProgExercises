@@ -13,4 +13,6 @@ int hammingDistance(int x, int y) {
 
 int mainHD() {
 	cout << hammingDistance(1, 4);
+
+	return 0;
 }
