@@ -60,6 +60,12 @@
     <ClCompile Include="TripletsANDEqual0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BitwiseAndOfRange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TotalHammingDistance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdc++.h">

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BitwiseAndOfRange.cpp" />
     <ClCompile Include="BullsAndCows.cpp" />
     <ClCompile Include="DecodingXORArray.cpp" />
     <ClCompile Include="DistinctCandies.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="PowerOf4.cpp" />
     <ClCompile Include="SmallestRange.cpp" />
     <ClCompile Include="SortIntegerByNumbersOfBits.cpp" />
+    <ClCompile Include="TotalHammingDistance.cpp" />
     <ClCompile Include="TripletsANDEqual0.cpp" />
   </ItemGroup>
   <ItemGroup>
