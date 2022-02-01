@@ -66,6 +66,12 @@
     <ClCompile Include="TotalHammingDistance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DecodePermutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="POW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdc++.h">

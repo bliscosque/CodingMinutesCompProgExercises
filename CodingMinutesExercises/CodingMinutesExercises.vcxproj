@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="BitwiseAndOfRange.cpp" />
     <ClCompile Include="BullsAndCows.cpp" />
+    <ClCompile Include="DecodePermutation.cpp" />
     <ClCompile Include="DecodingXORArray.cpp" />
     <ClCompile Include="DistinctCandies.cpp" />
     <ClCompile Include="FindKClosestElements.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="MaximumScore.cpp" />
     <ClCompile Include="MaxScoreFromRemovingStones.cpp" />
     <ClCompile Include="OneInteger.cpp" />
+    <ClCompile Include="POW.cpp" />
     <ClCompile Include="PowerOf4.cpp" />
     <ClCompile Include="SmallestRange.cpp" />
     <ClCompile Include="SortIntegerByNumbersOfBits.cpp" />
